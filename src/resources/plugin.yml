@@ -1,0 +1,4 @@
+name: Zombies
+version: '${project.version}'
+main: Liss.Zombies
+api-version: 1.18
